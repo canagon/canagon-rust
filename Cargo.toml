@@ -1,0 +1,7 @@
+[package]
+name = "canagon"
+version = "0.1.1"
+edition = "2021"
+description = "Official canagon crate - see www.canagon.com"
+homepage = "https://www.canagon.com"
+license = "MIT"
